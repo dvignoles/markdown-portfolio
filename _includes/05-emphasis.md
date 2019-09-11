@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* **Comfortable with Linux & Shell**
+* **Experienced with data driven applications**
+* **Knowledgeable of Python best practices**

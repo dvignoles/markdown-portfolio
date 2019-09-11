@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[Selfie](https://raw.githubusercontent.com/dvignoles/image_hosting/master/headshot.png)
